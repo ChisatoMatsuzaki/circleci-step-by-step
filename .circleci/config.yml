@@ -52,7 +52,7 @@ workflows:
             - "jdk-8"
       - "jdk-11":
           requires: 
-            - "jdk-"
+            - "jdk-10"
 
 
 
